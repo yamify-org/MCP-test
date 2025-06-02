@@ -1,3 +1,8 @@
 build/
 node_modules/
+
+
 *env
+TROUBLESHOOTING.md
+setup-credentials.sh
+test-server.js
