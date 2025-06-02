@@ -29,7 +29,7 @@ Your AWS user needs additional permissions to use the EKS MCP server. Follow the
    - Go back to your user "francoisdecise"
    - Click "Add permissions" → "Attach policies directly"
    - Search for `EKS-MCP-Server-Policy`
-   - Select it and click "Add permissions"
+   - Select it and click "Add permissions" 
 
 ### Option 2: Using AWS CLI
 
