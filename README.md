@@ -49,8 +49,8 @@ The server exposes 5 main tools for EKS cluster management:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/aws-eks-mcp-server.git
-cd aws-eks-mcp-server
+git clone https://github.com/your-username/Yamify-MCP-test.git
+cd Yamify-MCP-test
 ```
 
 ## Installation
